@@ -27,3 +27,6 @@ npm run dev
 Backend runs at http://127.0.0.1:8000
 
 Frontend runs at http://localhost:5173
+
+
+<img width="1055" height="1770" alt="F1" src="https://github.com/user-attachments/assets/f24c5781-25ec-4362-a36b-1d6f7a4dae16" />
