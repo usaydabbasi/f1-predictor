@@ -13,7 +13,7 @@ MODEL_DIR.mkdir(exist_ok=True, parents=True)
 
 df = pd.read_csv(DATA)
 
-# Train on all seasons except the latest; test on the latest
+# Train on all seasons - the latest
 latest_season = df["season"].max()
 train = df[df["season"] < latest_season].copy()
 test  = df[df["season"] == latest_season].copy()
@@ -22,7 +22,7 @@ feat_cols = [c for c in df.columns if c not in ("win", "season")]
 X_tr, y_tr = train[feat_cols], train["win"]
 X_te, y_te = test[feat_cols], test["win"]
 
-# Handle class imbalance
+# class imbalance
 neg, pos = np.bincount(y_tr)
 scale_pos_weight = neg / max(pos, 1)
 
@@ -40,16 +40,14 @@ model = XGBClassifier(
     scale_pos_weight=scale_pos_weight,
 )
 
-# Simple fit (no early stopping)
 model.fit(X_tr, y_tr)
 
-# Metrics
 p_te = model.predict_proba(X_te)[:, 1]
 print(f"Accuracy: {accuracy_score(y_te, (p_te >= 0.5).astype(int)):.3f}")
 print(f"AUC: {roc_auc_score(y_te, p_te):.3f}")
 print(f"LogLoss: {log_loss(y_te, p_te):.4f}")
 
-# Save model and feature order
+
 joblib.dump(model, MODEL_DIR / "model.pkl")
 json.dump(feat_cols, open(MODEL_DIR / "features.json", "w"))
 print("Saved model.pkl and features.json")

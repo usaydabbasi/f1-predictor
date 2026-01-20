@@ -6,7 +6,7 @@ BASE = "https://api.jolpi.ca/ergast/f1"
 
 def get_results(season: int) -> pd.DataFrame:
     url = f"{BASE}/{season}/results.json?limit=1000"
-    r = requests.get(url, timeout=30)
+    r = requests.get(url, timeout=30, verify=False)
     r.raise_for_status()
     races = r.json()["MRData"]["RaceTable"]["Races"]
     rows = []
@@ -14,7 +14,7 @@ def get_results(season: int) -> pd.DataFrame:
         round_no = int(race["round"])
         race_name = race["raceName"]
         for res in race["Results"]:
-            driver = res["Driver"]["familyName"]
+            driver = f'{res["Driver"]["givenName"]} {res["Driver"]["familyName"]}'
             constructor = res["Constructor"]["name"]
             pos = int(res["position"])
             grid = int(res["grid"])

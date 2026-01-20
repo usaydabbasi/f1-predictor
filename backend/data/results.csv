@@ -1,0 +1,801 @@
+season,round,race,driver,constructor,position,grid,points,status
+2018,1,Australian Grand Prix,Sebastian Vettel,Ferrari,1,3,25.0,Finished
+2018,1,Australian Grand Prix,Lewis Hamilton,Mercedes,2,1,18.0,Finished
+2018,1,Australian Grand Prix,Kimi Räikkönen,Ferrari,3,2,15.0,Finished
+2018,1,Australian Grand Prix,Daniel Ricciardo,Red Bull,4,8,12.0,Finished
+2018,1,Australian Grand Prix,Fernando Alonso,McLaren,5,10,10.0,Finished
+2018,1,Australian Grand Prix,Max Verstappen,Red Bull,6,4,8.0,Finished
+2018,1,Australian Grand Prix,Nico Hülkenberg,Renault,7,7,6.0,Finished
+2018,1,Australian Grand Prix,Valtteri Bottas,Mercedes,8,15,4.0,Finished
+2018,1,Australian Grand Prix,Stoffel Vandoorne,McLaren,9,11,2.0,Finished
+2018,1,Australian Grand Prix,Carlos Sainz,Renault,10,9,1.0,Finished
+2018,1,Australian Grand Prix,Sergio Pérez,Force India,11,12,0.0,Finished
+2018,1,Australian Grand Prix,Esteban Ocon,Force India,12,14,0.0,Finished
+2018,1,Australian Grand Prix,Charles Leclerc,Sauber,13,18,0.0,Finished
+2018,1,Australian Grand Prix,Lance Stroll,Williams,14,13,0.0,Finished
+2018,1,Australian Grand Prix,Brendon Hartley,Toro Rosso,15,16,0.0,+1 Lap
+2018,1,Australian Grand Prix,Romain Grosjean,Haas F1 Team,16,6,0.0,Wheel
+2018,1,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,17,5,0.0,Wheel
+2018,1,Australian Grand Prix,Pierre Gasly,Toro Rosso,18,20,0.0,Engine
+2018,1,Australian Grand Prix,Marcus Ericsson,Sauber,19,17,0.0,Steering
+2018,1,Australian Grand Prix,Sergey Sirotkin,Williams,20,19,0.0,Brakes
+2018,2,Bahrain Grand Prix,Sebastian Vettel,Ferrari,1,1,25.0,Finished
+2018,2,Bahrain Grand Prix,Valtteri Bottas,Mercedes,2,3,18.0,Finished
+2018,2,Bahrain Grand Prix,Lewis Hamilton,Mercedes,3,9,15.0,Finished
+2018,2,Bahrain Grand Prix,Pierre Gasly,Toro Rosso,4,5,12.0,Finished
+2018,2,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,5,6,10.0,Finished
+2018,2,Bahrain Grand Prix,Nico Hülkenberg,Renault,6,7,8.0,Finished
+2018,2,Bahrain Grand Prix,Fernando Alonso,McLaren,7,13,6.0,+1 Lap
+2018,2,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,8,14,4.0,+1 Lap
+2018,2,Bahrain Grand Prix,Marcus Ericsson,Sauber,9,17,2.0,+1 Lap
+2018,2,Bahrain Grand Prix,Esteban Ocon,Force India,10,8,1.0,+1 Lap
+2018,2,Bahrain Grand Prix,Carlos Sainz,Renault,11,10,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Charles Leclerc,Sauber,12,19,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Romain Grosjean,Haas F1 Team,13,16,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Lance Stroll,Williams,14,20,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Sergey Sirotkin,Williams,15,18,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Sergio Pérez,Force India,16,12,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Brendon Hartley,Toro Rosso,17,11,0.0,+1 Lap
+2018,2,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,18,2,0.0,Wheel
+2018,2,Bahrain Grand Prix,Max Verstappen,Red Bull,19,15,0.0,Puncture
+2018,2,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,20,4,0.0,Electrical
+2018,3,Chinese Grand Prix,Daniel Ricciardo,Red Bull,1,6,25.0,Finished
+2018,3,Chinese Grand Prix,Valtteri Bottas,Mercedes,2,3,18.0,Finished
+2018,3,Chinese Grand Prix,Kimi Räikkönen,Ferrari,3,2,15.0,Finished
+2018,3,Chinese Grand Prix,Lewis Hamilton,Mercedes,4,4,12.0,Finished
+2018,3,Chinese Grand Prix,Max Verstappen,Red Bull,5,5,10.0,Finished
+2018,3,Chinese Grand Prix,Nico Hülkenberg,Renault,6,7,8.0,Finished
+2018,3,Chinese Grand Prix,Fernando Alonso,McLaren,7,13,6.0,Finished
+2018,3,Chinese Grand Prix,Sebastian Vettel,Ferrari,8,1,4.0,Finished
+2018,3,Chinese Grand Prix,Carlos Sainz,Renault,9,9,2.0,Finished
+2018,3,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,10,11,1.0,Finished
+2018,3,Chinese Grand Prix,Esteban Ocon,Force India,11,12,0.0,Finished
+2018,3,Chinese Grand Prix,Sergio Pérez,Force India,12,8,0.0,Finished
+2018,3,Chinese Grand Prix,Stoffel Vandoorne,McLaren,13,14,0.0,Finished
+2018,3,Chinese Grand Prix,Lance Stroll,Williams,14,18,0.0,Finished
+2018,3,Chinese Grand Prix,Sergey Sirotkin,Williams,15,16,0.0,Finished
+2018,3,Chinese Grand Prix,Marcus Ericsson,Sauber,16,20,0.0,Finished
+2018,3,Chinese Grand Prix,Romain Grosjean,Haas F1 Team,17,10,0.0,Finished
+2018,3,Chinese Grand Prix,Pierre Gasly,Toro Rosso,18,17,0.0,Finished
+2018,3,Chinese Grand Prix,Charles Leclerc,Sauber,19,19,0.0,Finished
+2018,3,Chinese Grand Prix,Brendon Hartley,Toro Rosso,20,15,0.0,Collision damage
+2018,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,1,2,25.0,Finished
+2018,4,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,2,6,18.0,Finished
+2018,4,Azerbaijan Grand Prix,Sergio Pérez,Force India,3,8,15.0,Finished
+2018,4,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,1,12.0,Finished
+2018,4,Azerbaijan Grand Prix,Carlos Sainz,Renault,5,9,10.0,Finished
+2018,4,Azerbaijan Grand Prix,Charles Leclerc,Sauber,6,13,8.0,Finished
+2018,4,Azerbaijan Grand Prix,Fernando Alonso,McLaren,7,12,6.0,Finished
+2018,4,Azerbaijan Grand Prix,Lance Stroll,Williams,8,10,4.0,Finished
+2018,4,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,9,16,2.0,Finished
+2018,4,Azerbaijan Grand Prix,Brendon Hartley,Toro Rosso,10,19,1.0,Finished
+2018,4,Azerbaijan Grand Prix,Marcus Ericsson,Sauber,11,18,0.0,Finished
+2018,4,Azerbaijan Grand Prix,Pierre Gasly,Toro Rosso,12,17,0.0,Finished
+2018,4,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,13,15,0.0,Finished
+2018,4,Azerbaijan Grand Prix,Valtteri Bottas,Mercedes,14,3,0.0,Puncture
+2018,4,Azerbaijan Grand Prix,Romain Grosjean,Haas F1 Team,15,20,0.0,Accident
+2018,4,Azerbaijan Grand Prix,Max Verstappen,Red Bull,16,5,0.0,Collision
+2018,4,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,17,4,0.0,Collision
+2018,4,Azerbaijan Grand Prix,Nico Hülkenberg,Renault,18,14,0.0,Accident
+2018,4,Azerbaijan Grand Prix,Esteban Ocon,Force India,19,7,0.0,Collision
+2018,4,Azerbaijan Grand Prix,Sergey Sirotkin,Williams,20,11,0.0,Collision
+2018,5,Spanish Grand Prix,Lewis Hamilton,Mercedes,1,1,25.0,Finished
+2018,5,Spanish Grand Prix,Valtteri Bottas,Mercedes,2,2,18.0,Finished
+2018,5,Spanish Grand Prix,Max Verstappen,Red Bull,3,5,15.0,Finished
+2018,5,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,3,12.0,Finished
+2018,5,Spanish Grand Prix,Daniel Ricciardo,Red Bull,5,6,10.0,Finished
+2018,5,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,6,7,8.0,+1 Lap
+2018,5,Spanish Grand Prix,Carlos Sainz,Renault,7,9,6.0,+1 Lap
+2018,5,Spanish Grand Prix,Fernando Alonso,McLaren,8,8,4.0,+1 Lap
+2018,5,Spanish Grand Prix,Sergio Pérez,Force India,9,15,2.0,+2 Laps
+2018,5,Spanish Grand Prix,Charles Leclerc,Sauber,10,14,1.0,+2 Laps
+2018,5,Spanish Grand Prix,Lance Stroll,Williams,11,18,0.0,+2 Laps
+2018,5,Spanish Grand Prix,Brendon Hartley,Toro Rosso,12,20,0.0,+2 Laps
+2018,5,Spanish Grand Prix,Marcus Ericsson,Sauber,13,17,0.0,+2 Laps
+2018,5,Spanish Grand Prix,Sergey Sirotkin,Williams,14,19,0.0,+3 Laps
+2018,5,Spanish Grand Prix,Stoffel Vandoorne,McLaren,15,11,0.0,Gearbox
+2018,5,Spanish Grand Prix,Esteban Ocon,Force India,16,13,0.0,Oil leak
+2018,5,Spanish Grand Prix,Kimi Räikkönen,Ferrari,17,4,0.0,Turbo
+2018,5,Spanish Grand Prix,Romain Grosjean,Haas F1 Team,18,10,0.0,Collision
+2018,5,Spanish Grand Prix,Pierre Gasly,Toro Rosso,19,12,0.0,Collision
+2018,5,Spanish Grand Prix,Nico Hülkenberg,Renault,20,16,0.0,Collision
+2019,1,Australian Grand Prix,Valtteri Bottas,Mercedes,1,2,26.0,Finished
+2019,1,Australian Grand Prix,Lewis Hamilton,Mercedes,2,1,18.0,Finished
+2019,1,Australian Grand Prix,Max Verstappen,Red Bull,3,4,15.0,Finished
+2019,1,Australian Grand Prix,Sebastian Vettel,Ferrari,4,3,12.0,Finished
+2019,1,Australian Grand Prix,Charles Leclerc,Ferrari,5,5,10.0,Finished
+2019,1,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,6,7,8.0,Finished
+2019,1,Australian Grand Prix,Nico Hülkenberg,Renault,7,11,6.0,+1 Lap
+2019,1,Australian Grand Prix,Kimi Räikkönen,Alfa Romeo,8,9,4.0,+1 Lap
+2019,1,Australian Grand Prix,Lance Stroll,Racing Point,9,16,2.0,+1 Lap
+2019,1,Australian Grand Prix,Daniil Kvyat,Toro Rosso,10,15,1.0,+1 Lap
+2019,1,Australian Grand Prix,Pierre Gasly,Red Bull,11,17,0.0,+1 Lap
+2019,1,Australian Grand Prix,Lando Norris,McLaren,12,8,0.0,+1 Lap
+2019,1,Australian Grand Prix,Sergio Pérez,Racing Point,13,10,0.0,+1 Lap
+2019,1,Australian Grand Prix,Alexander Albon,Toro Rosso,14,13,0.0,+1 Lap
+2019,1,Australian Grand Prix,Antonio Giovinazzi,Alfa Romeo,15,14,0.0,+1 Lap
+2019,1,Australian Grand Prix,George Russell,Williams,16,19,0.0,+2 Laps
+2019,1,Australian Grand Prix,Robert Kubica,Williams,17,20,0.0,+3 Laps
+2019,1,Australian Grand Prix,Romain Grosjean,Haas F1 Team,18,6,0.0,Wheel
+2019,1,Australian Grand Prix,Daniel Ricciardo,Renault,19,12,0.0,Damage
+2019,1,Australian Grand Prix,Carlos Sainz,McLaren,20,18,0.0,Engine
+2019,2,Bahrain Grand Prix,Lewis Hamilton,Mercedes,1,3,25.0,Finished
+2019,2,Bahrain Grand Prix,Valtteri Bottas,Mercedes,2,4,18.0,Finished
+2019,2,Bahrain Grand Prix,Charles Leclerc,Ferrari,3,1,16.0,Finished
+2019,2,Bahrain Grand Prix,Max Verstappen,Red Bull,4,5,12.0,Finished
+2019,2,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,2,10.0,Finished
+2019,2,Bahrain Grand Prix,Lando Norris,McLaren,6,9,8.0,Finished
+2019,2,Bahrain Grand Prix,Kimi Räikkönen,Alfa Romeo,7,8,6.0,Finished
+2019,2,Bahrain Grand Prix,Pierre Gasly,Red Bull,8,13,4.0,Finished
+2019,2,Bahrain Grand Prix,Alexander Albon,Toro Rosso,9,12,2.0,Finished
+2019,2,Bahrain Grand Prix,Sergio Pérez,Racing Point,10,14,1.0,Finished
+2019,2,Bahrain Grand Prix,Antonio Giovinazzi,Alfa Romeo,11,16,0.0,Finished
+2019,2,Bahrain Grand Prix,Daniil Kvyat,Toro Rosso,12,15,0.0,+1 Lap
+2019,2,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,13,6,0.0,+1 Lap
+2019,2,Bahrain Grand Prix,Lance Stroll,Racing Point,14,18,0.0,+1 Lap
+2019,2,Bahrain Grand Prix,George Russell,Williams,15,19,0.0,+1 Lap
+2019,2,Bahrain Grand Prix,Robert Kubica,Williams,16,20,0.0,+2 Laps
+2019,2,Bahrain Grand Prix,Nico Hülkenberg,Renault,17,17,0.0,Engine
+2019,2,Bahrain Grand Prix,Daniel Ricciardo,Renault,18,10,0.0,Out of fuel
+2019,2,Bahrain Grand Prix,Carlos Sainz,McLaren,19,7,0.0,Collision damage
+2019,2,Bahrain Grand Prix,Romain Grosjean,Haas F1 Team,20,11,0.0,Retired
+2019,3,Chinese Grand Prix,Lewis Hamilton,Mercedes,1,2,25.0,Finished
+2019,3,Chinese Grand Prix,Valtteri Bottas,Mercedes,2,1,18.0,Finished
+2019,3,Chinese Grand Prix,Sebastian Vettel,Ferrari,3,3,15.0,Finished
+2019,3,Chinese Grand Prix,Max Verstappen,Red Bull,4,5,12.0,Finished
+2019,3,Chinese Grand Prix,Charles Leclerc,Ferrari,5,4,10.0,Finished
+2019,3,Chinese Grand Prix,Pierre Gasly,Red Bull,6,6,9.0,Finished
+2019,3,Chinese Grand Prix,Daniel Ricciardo,Renault,7,7,6.0,+1 Lap
+2019,3,Chinese Grand Prix,Sergio Pérez,Racing Point,8,12,4.0,+1 Lap
+2019,3,Chinese Grand Prix,Kimi Räikkönen,Alfa Romeo,9,13,2.0,+1 Lap
+2019,3,Chinese Grand Prix,Alexander Albon,Toro Rosso,10,0,1.0,+1 Lap
+2019,3,Chinese Grand Prix,Romain Grosjean,Haas F1 Team,11,10,0.0,+1 Lap
+2019,3,Chinese Grand Prix,Lance Stroll,Racing Point,12,16,0.0,+1 Lap
+2019,3,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,13,9,0.0,+1 Lap
+2019,3,Chinese Grand Prix,Carlos Sainz,McLaren,14,14,0.0,+1 Lap
+2019,3,Chinese Grand Prix,Antonio Giovinazzi,Alfa Romeo,15,19,0.0,+1 Lap
+2019,3,Chinese Grand Prix,George Russell,Williams,16,17,0.0,+2 Laps
+2019,3,Chinese Grand Prix,Robert Kubica,Williams,17,18,0.0,+2 Laps
+2019,3,Chinese Grand Prix,Lando Norris,McLaren,18,15,0.0,Collision
+2019,3,Chinese Grand Prix,Daniil Kvyat,Toro Rosso,19,11,0.0,Collision
+2019,3,Chinese Grand Prix,Nico Hülkenberg,Renault,20,8,0.0,Power Unit
+2019,4,Azerbaijan Grand Prix,Valtteri Bottas,Mercedes,1,1,25.0,Finished
+2019,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,2,2,18.0,Finished
+2019,4,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,3,3,15.0,Finished
+2019,4,Azerbaijan Grand Prix,Max Verstappen,Red Bull,4,4,12.0,Finished
+2019,4,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,5,8,11.0,Finished
+2019,4,Azerbaijan Grand Prix,Sergio Pérez,Racing Point,6,5,8.0,Finished
+2019,4,Azerbaijan Grand Prix,Carlos Sainz,McLaren,7,9,6.0,Finished
+2019,4,Azerbaijan Grand Prix,Lando Norris,McLaren,8,7,4.0,Finished
+2019,4,Azerbaijan Grand Prix,Lance Stroll,Racing Point,9,13,2.0,Finished
+2019,4,Azerbaijan Grand Prix,Kimi Räikkönen,Alfa Romeo,10,0,1.0,+1 Lap
+2019,4,Azerbaijan Grand Prix,Alexander Albon,Toro Rosso,11,11,0.0,+1 Lap
+2019,4,Azerbaijan Grand Prix,Antonio Giovinazzi,Alfa Romeo,12,17,0.0,+1 Lap
+2019,4,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,13,12,0.0,+1 Lap
+2019,4,Azerbaijan Grand Prix,Nico Hülkenberg,Renault,14,15,0.0,+1 Lap
+2019,4,Azerbaijan Grand Prix,George Russell,Williams,15,16,0.0,+2 Laps
+2019,4,Azerbaijan Grand Prix,Robert Kubica,Williams,16,0,0.0,+2 Laps
+2019,4,Azerbaijan Grand Prix,Pierre Gasly,Red Bull,17,0,0.0,Transmission
+2019,4,Azerbaijan Grand Prix,Romain Grosjean,Haas F1 Team,18,14,0.0,Brakes
+2019,4,Azerbaijan Grand Prix,Daniil Kvyat,Toro Rosso,19,6,0.0,Collision
+2019,4,Azerbaijan Grand Prix,Daniel Ricciardo,Renault,20,10,0.0,Collision
+2019,5,Spanish Grand Prix,Lewis Hamilton,Mercedes,1,2,26.0,Finished
+2019,5,Spanish Grand Prix,Valtteri Bottas,Mercedes,2,1,18.0,Finished
+2019,5,Spanish Grand Prix,Max Verstappen,Red Bull,3,4,15.0,Finished
+2019,5,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,3,12.0,Finished
+2019,5,Spanish Grand Prix,Charles Leclerc,Ferrari,5,5,10.0,Finished
+2019,5,Spanish Grand Prix,Pierre Gasly,Red Bull,6,6,8.0,Finished
+2019,5,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,7,8,6.0,Finished
+2019,5,Spanish Grand Prix,Carlos Sainz,McLaren,8,12,4.0,Finished
+2019,5,Spanish Grand Prix,Daniil Kvyat,Toro Rosso,9,9,2.0,Finished
+2019,5,Spanish Grand Prix,Romain Grosjean,Haas F1 Team,10,7,1.0,Finished
+2019,5,Spanish Grand Prix,Alexander Albon,Toro Rosso,11,11,0.0,Finished
+2019,5,Spanish Grand Prix,Daniel Ricciardo,Renault,12,13,0.0,Finished
+2019,5,Spanish Grand Prix,Nico Hülkenberg,Renault,13,0,0.0,Finished
+2019,5,Spanish Grand Prix,Kimi Räikkönen,Alfa Romeo,14,14,0.0,Finished
+2019,5,Spanish Grand Prix,Sergio Pérez,Racing Point,15,15,0.0,Finished
+2019,5,Spanish Grand Prix,Antonio Giovinazzi,Alfa Romeo,16,18,0.0,Finished
+2019,5,Spanish Grand Prix,George Russell,Williams,17,19,0.0,+1 Lap
+2019,5,Spanish Grand Prix,Robert Kubica,Williams,18,17,0.0,+1 Lap
+2019,5,Spanish Grand Prix,Lance Stroll,Racing Point,19,16,0.0,Collision
+2019,5,Spanish Grand Prix,Lando Norris,McLaren,20,10,0.0,Collision
+2020,1,Austrian Grand Prix,Valtteri Bottas,Mercedes,1,1,25.0,Finished
+2020,1,Austrian Grand Prix,Charles Leclerc,Ferrari,2,7,18.0,Finished
+2020,1,Austrian Grand Prix,Lando Norris,McLaren,3,3,16.0,Finished
+2020,1,Austrian Grand Prix,Lewis Hamilton,Mercedes,4,5,12.0,Finished
+2020,1,Austrian Grand Prix,Carlos Sainz,McLaren,5,8,10.0,Finished
+2020,1,Austrian Grand Prix,Sergio Pérez,Racing Point,6,6,8.0,Finished
+2020,1,Austrian Grand Prix,Pierre Gasly,AlphaTauri,7,12,6.0,Finished
+2020,1,Austrian Grand Prix,Esteban Ocon,Renault,8,14,4.0,Finished
+2020,1,Austrian Grand Prix,Antonio Giovinazzi,Alfa Romeo,9,18,2.0,Finished
+2020,1,Austrian Grand Prix,Sebastian Vettel,Ferrari,10,11,1.0,Finished
+2020,1,Austrian Grand Prix,Nicholas Latifi,Williams,11,20,0.0,Finished
+2020,1,Austrian Grand Prix,Daniil Kvyat,AlphaTauri,12,13,0.0,Suspension
+2020,1,Austrian Grand Prix,Alexander Albon,Red Bull,13,4,0.0,Electronics
+2020,1,Austrian Grand Prix,Kimi Räikkönen,Alfa Romeo,14,19,0.0,Wheel
+2020,1,Austrian Grand Prix,George Russell,Williams,15,17,0.0,Fuel pressure
+2020,1,Austrian Grand Prix,Romain Grosjean,Haas F1 Team,16,15,0.0,Brakes
+2020,1,Austrian Grand Prix,Kevin Magnussen,Haas F1 Team,17,16,0.0,Brakes
+2020,1,Austrian Grand Prix,Lance Stroll,Racing Point,18,9,0.0,Engine
+2020,1,Austrian Grand Prix,Daniel Ricciardo,Renault,19,10,0.0,Overheating
+2020,1,Austrian Grand Prix,Max Verstappen,Red Bull,20,2,0.0,Electronics
+2020,2,Styrian Grand Prix,Lewis Hamilton,Mercedes,1,1,25.0,Finished
+2020,2,Styrian Grand Prix,Valtteri Bottas,Mercedes,2,4,18.0,Finished
+2020,2,Styrian Grand Prix,Max Verstappen,Red Bull,3,2,15.0,Finished
+2020,2,Styrian Grand Prix,Alexander Albon,Red Bull,4,6,12.0,Finished
+2020,2,Styrian Grand Prix,Lando Norris,McLaren,5,9,10.0,Finished
+2020,2,Styrian Grand Prix,Sergio Pérez,Racing Point,6,17,8.0,Finished
+2020,2,Styrian Grand Prix,Lance Stroll,Racing Point,7,12,6.0,Finished
+2020,2,Styrian Grand Prix,Daniel Ricciardo,Renault,8,8,4.0,Finished
+2020,2,Styrian Grand Prix,Carlos Sainz,McLaren,9,3,3.0,+1 Lap
+2020,2,Styrian Grand Prix,Daniil Kvyat,AlphaTauri,10,13,1.0,+1 Lap
+2020,2,Styrian Grand Prix,Kimi Räikkönen,Alfa Romeo,11,16,0.0,+1 Lap
+2020,2,Styrian Grand Prix,Kevin Magnussen,Haas F1 Team,12,15,0.0,+1 Lap
+2020,2,Styrian Grand Prix,Romain Grosjean,Haas F1 Team,13,0,0.0,+1 Lap
+2020,2,Styrian Grand Prix,Antonio Giovinazzi,Alfa Romeo,14,19,0.0,+1 Lap
+2020,2,Styrian Grand Prix,Pierre Gasly,AlphaTauri,15,7,0.0,+1 Lap
+2020,2,Styrian Grand Prix,George Russell,Williams,16,11,0.0,+2 Laps
+2020,2,Styrian Grand Prix,Nicholas Latifi,Williams,17,18,0.0,+2 Laps
+2020,2,Styrian Grand Prix,Esteban Ocon,Renault,18,5,0.0,Overheating
+2020,2,Styrian Grand Prix,Charles Leclerc,Ferrari,19,14,0.0,Collision damage
+2020,2,Styrian Grand Prix,Sebastian Vettel,Ferrari,20,10,0.0,Collision damage
+2020,3,Hungarian Grand Prix,Lewis Hamilton,Mercedes,1,1,26.0,Finished
+2020,3,Hungarian Grand Prix,Max Verstappen,Red Bull,2,7,18.0,Finished
+2020,3,Hungarian Grand Prix,Valtteri Bottas,Mercedes,3,2,15.0,Finished
+2020,3,Hungarian Grand Prix,Lance Stroll,Racing Point,4,3,12.0,Finished
+2020,3,Hungarian Grand Prix,Alexander Albon,Red Bull,5,13,10.0,Finished
+2020,3,Hungarian Grand Prix,Sebastian Vettel,Ferrari,6,5,8.0,+1 Lap
+2020,3,Hungarian Grand Prix,Sergio Pérez,Racing Point,7,4,6.0,+1 Lap
+2020,3,Hungarian Grand Prix,Daniel Ricciardo,Renault,8,11,4.0,+1 Lap
+2020,3,Hungarian Grand Prix,Carlos Sainz,McLaren,9,9,2.0,+1 Lap
+2020,3,Hungarian Grand Prix,Kevin Magnussen,Haas F1 Team,10,0,1.0,+1 Lap
+2020,3,Hungarian Grand Prix,Charles Leclerc,Ferrari,11,6,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Daniil Kvyat,AlphaTauri,12,17,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Lando Norris,McLaren,13,8,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Esteban Ocon,Renault,14,14,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Kimi Räikkönen,Alfa Romeo,15,20,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Romain Grosjean,Haas F1 Team,16,0,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Antonio Giovinazzi,Alfa Romeo,17,19,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,George Russell,Williams,18,12,0.0,+1 Lap
+2020,3,Hungarian Grand Prix,Nicholas Latifi,Williams,19,15,0.0,+5 Laps
+2020,3,Hungarian Grand Prix,Pierre Gasly,AlphaTauri,20,10,0.0,Engine
+2020,4,British Grand Prix,Lewis Hamilton,Mercedes,1,1,25.0,Finished
+2020,4,British Grand Prix,Max Verstappen,Red Bull,2,3,19.0,Finished
+2020,4,British Grand Prix,Charles Leclerc,Ferrari,3,4,15.0,Finished
+2020,4,British Grand Prix,Daniel Ricciardo,Renault,4,8,12.0,Finished
+2020,4,British Grand Prix,Lando Norris,McLaren,5,5,10.0,Finished
+2020,4,British Grand Prix,Esteban Ocon,Renault,6,9,8.0,Finished
+2020,4,British Grand Prix,Pierre Gasly,AlphaTauri,7,11,6.0,Finished
+2020,4,British Grand Prix,Alexander Albon,Red Bull,8,12,4.0,Finished
+2020,4,British Grand Prix,Lance Stroll,Racing Point,9,6,2.0,Finished
+2020,4,British Grand Prix,Sebastian Vettel,Ferrari,10,10,1.0,Finished
+2020,4,British Grand Prix,Valtteri Bottas,Mercedes,11,2,0.0,Finished
+2020,4,British Grand Prix,George Russell,Williams,12,20,0.0,Finished
+2020,4,British Grand Prix,Carlos Sainz,McLaren,13,7,0.0,Finished
+2020,4,British Grand Prix,Antonio Giovinazzi,Alfa Romeo,14,15,0.0,Finished
+2020,4,British Grand Prix,Nicholas Latifi,Williams,15,18,0.0,Finished
+2020,4,British Grand Prix,Romain Grosjean,Haas F1 Team,16,17,0.0,Finished
+2020,4,British Grand Prix,Kimi Räikkönen,Alfa Romeo,17,16,0.0,+1 Lap
+2020,4,British Grand Prix,Daniil Kvyat,AlphaTauri,18,19,0.0,Accident
+2020,4,British Grand Prix,Kevin Magnussen,Haas F1 Team,19,14,0.0,Collision
+2020,4,British Grand Prix,Nico Hülkenberg,Racing Point,20,13,0.0,Power Unit
+2020,5,70th Anniversary Grand Prix,Max Verstappen,Red Bull,1,4,25.0,Finished
+2020,5,70th Anniversary Grand Prix,Lewis Hamilton,Mercedes,2,2,19.0,Finished
+2020,5,70th Anniversary Grand Prix,Valtteri Bottas,Mercedes,3,1,15.0,Finished
+2020,5,70th Anniversary Grand Prix,Charles Leclerc,Ferrari,4,8,12.0,Finished
+2020,5,70th Anniversary Grand Prix,Alexander Albon,Red Bull,5,9,10.0,Finished
+2020,5,70th Anniversary Grand Prix,Lance Stroll,Racing Point,6,6,8.0,Finished
+2020,5,70th Anniversary Grand Prix,Nico Hülkenberg,Racing Point,7,3,6.0,Finished
+2020,5,70th Anniversary Grand Prix,Esteban Ocon,Renault,8,14,4.0,Finished
+2020,5,70th Anniversary Grand Prix,Lando Norris,McLaren,9,10,2.0,Finished
+2020,5,70th Anniversary Grand Prix,Daniil Kvyat,AlphaTauri,10,16,1.0,Finished
+2020,5,70th Anniversary Grand Prix,Pierre Gasly,AlphaTauri,11,7,0.0,Finished
+2020,5,70th Anniversary Grand Prix,Sebastian Vettel,Ferrari,12,11,0.0,Finished
+2020,5,70th Anniversary Grand Prix,Carlos Sainz,McLaren,13,12,0.0,Finished
+2020,5,70th Anniversary Grand Prix,Daniel Ricciardo,Renault,14,5,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,Kimi Räikkönen,Alfa Romeo,15,20,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,Romain Grosjean,Haas F1 Team,16,13,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,Antonio Giovinazzi,Alfa Romeo,17,19,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,George Russell,Williams,18,15,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,Nicholas Latifi,Williams,19,18,0.0,+1 Lap
+2020,5,70th Anniversary Grand Prix,Kevin Magnussen,Haas F1 Team,20,17,0.0,Retired
+2021,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,1,2,25.0,Finished
+2021,1,Bahrain Grand Prix,Max Verstappen,Red Bull,2,1,18.0,Finished
+2021,1,Bahrain Grand Prix,Valtteri Bottas,Mercedes,3,3,16.0,Finished
+2021,1,Bahrain Grand Prix,Lando Norris,McLaren,4,7,12.0,Finished
+2021,1,Bahrain Grand Prix,Sergio Pérez,Red Bull,5,0,10.0,Finished
+2021,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,6,4,8.0,Finished
+2021,1,Bahrain Grand Prix,Daniel Ricciardo,McLaren,7,6,6.0,Finished
+2021,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,8,8,4.0,Finished
+2021,1,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,9,13,2.0,Finished
+2021,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,10,10,1.0,Finished
+2021,1,Bahrain Grand Prix,Kimi Räikkönen,Alfa Romeo,11,14,0.0,Finished
+2021,1,Bahrain Grand Prix,Antonio Giovinazzi,Alfa Romeo,12,12,0.0,+1 Lap
+2021,1,Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,13,16,0.0,+1 Lap
+2021,1,Bahrain Grand Prix,George Russell,Williams,14,15,0.0,+1 Lap
+2021,1,Bahrain Grand Prix,Sebastian Vettel,Aston Martin,15,20,0.0,+1 Lap
+2021,1,Bahrain Grand Prix,Mick Schumacher,Haas F1 Team,16,18,0.0,+1 Lap
+2021,1,Bahrain Grand Prix,Pierre Gasly,AlphaTauri,17,5,0.0,Retired
+2021,1,Bahrain Grand Prix,Nicholas Latifi,Williams,18,17,0.0,Retired
+2021,1,Bahrain Grand Prix,Fernando Alonso,Alpine F1 Team,19,9,0.0,Brakes
+2021,1,Bahrain Grand Prix,Nikita Mazepin,Haas F1 Team,20,19,0.0,Accident
+2021,2,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,3,25.0,Finished
+2021,2,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,2,1,19.0,Finished
+2021,2,Emilia Romagna Grand Prix,Lando Norris,McLaren,3,7,15.0,Finished
+2021,2,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,4,4,12.0,Finished
+2021,2,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,5,11,10.0,Finished
+2021,2,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,6,6,8.0,Finished
+2021,2,Emilia Romagna Grand Prix,Pierre Gasly,AlphaTauri,7,5,6.0,Finished
+2021,2,Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,8,10,4.0,Finished
+2021,2,Emilia Romagna Grand Prix,Esteban Ocon,Alpine F1 Team,9,9,2.0,Finished
+2021,2,Emilia Romagna Grand Prix,Fernando Alonso,Alpine F1 Team,10,15,1.0,Finished
+2021,2,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,11,2,0.0,Finished
+2021,2,Emilia Romagna Grand Prix,Yuki Tsunoda,AlphaTauri,12,20,0.0,Finished
+2021,2,Emilia Romagna Grand Prix,Kimi Räikkönen,Alfa Romeo,13,16,0.0,Finished
+2021,2,Emilia Romagna Grand Prix,Antonio Giovinazzi,Alfa Romeo,14,17,0.0,+1 Lap
+2021,2,Emilia Romagna Grand Prix,Sebastian Vettel,Aston Martin,15,0,0.0,Gearbox
+2021,2,Emilia Romagna Grand Prix,Mick Schumacher,Haas F1 Team,16,18,0.0,+2 Laps
+2021,2,Emilia Romagna Grand Prix,Nikita Mazepin,Haas F1 Team,17,19,0.0,+2 Laps
+2021,2,Emilia Romagna Grand Prix,Valtteri Bottas,Mercedes,18,8,0.0,Collision
+2021,2,Emilia Romagna Grand Prix,George Russell,Williams,19,12,0.0,Collision
+2021,2,Emilia Romagna Grand Prix,Nicholas Latifi,Williams,20,14,0.0,Collision
+2021,3,Portuguese Grand Prix,Lewis Hamilton,Mercedes,1,2,25.0,Finished
+2021,3,Portuguese Grand Prix,Max Verstappen,Red Bull,2,3,18.0,Finished
+2021,3,Portuguese Grand Prix,Valtteri Bottas,Mercedes,3,1,16.0,Finished
+2021,3,Portuguese Grand Prix,Sergio Pérez,Red Bull,4,4,12.0,Finished
+2021,3,Portuguese Grand Prix,Lando Norris,McLaren,5,7,10.0,Finished
+2021,3,Portuguese Grand Prix,Charles Leclerc,Ferrari,6,8,8.0,Finished
+2021,3,Portuguese Grand Prix,Esteban Ocon,Alpine F1 Team,7,6,6.0,Finished
+2021,3,Portuguese Grand Prix,Fernando Alonso,Alpine F1 Team,8,13,4.0,Finished
+2021,3,Portuguese Grand Prix,Daniel Ricciardo,McLaren,9,16,2.0,Finished
+2021,3,Portuguese Grand Prix,Pierre Gasly,AlphaTauri,10,9,1.0,Finished
+2021,3,Portuguese Grand Prix,Carlos Sainz,Ferrari,11,5,0.0,Finished
+2021,3,Portuguese Grand Prix,Antonio Giovinazzi,Alfa Romeo,12,12,0.0,+1 Lap
+2021,3,Portuguese Grand Prix,Sebastian Vettel,Aston Martin,13,10,0.0,+1 Lap
+2021,3,Portuguese Grand Prix,Lance Stroll,Aston Martin,14,17,0.0,+1 Lap
+2021,3,Portuguese Grand Prix,Yuki Tsunoda,AlphaTauri,15,14,0.0,+1 Lap
+2021,3,Portuguese Grand Prix,George Russell,Williams,16,11,0.0,+1 Lap
+2021,3,Portuguese Grand Prix,Mick Schumacher,Haas F1 Team,17,19,0.0,+2 Laps
+2021,3,Portuguese Grand Prix,Nicholas Latifi,Williams,18,18,0.0,+2 Laps
+2021,3,Portuguese Grand Prix,Nikita Mazepin,Haas F1 Team,19,20,0.0,+2 Laps
+2021,3,Portuguese Grand Prix,Kimi Räikkönen,Alfa Romeo,20,15,0.0,Collision damage
+2021,4,Spanish Grand Prix,Lewis Hamilton,Mercedes,1,1,25.0,Finished
+2021,4,Spanish Grand Prix,Max Verstappen,Red Bull,2,2,19.0,Finished
+2021,4,Spanish Grand Prix,Valtteri Bottas,Mercedes,3,3,15.0,Finished
+2021,4,Spanish Grand Prix,Charles Leclerc,Ferrari,4,4,12.0,Finished
+2021,4,Spanish Grand Prix,Sergio Pérez,Red Bull,5,8,10.0,Finished
+2021,4,Spanish Grand Prix,Daniel Ricciardo,McLaren,6,7,8.0,Finished
+2021,4,Spanish Grand Prix,Carlos Sainz,Ferrari,7,6,6.0,Finished
+2021,4,Spanish Grand Prix,Lando Norris,McLaren,8,9,4.0,+1 Lap
+2021,4,Spanish Grand Prix,Esteban Ocon,Alpine F1 Team,9,5,2.0,+1 Lap
+2021,4,Spanish Grand Prix,Pierre Gasly,AlphaTauri,10,12,1.0,+1 Lap
+2021,4,Spanish Grand Prix,Lance Stroll,Aston Martin,11,11,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Kimi Räikkönen,Alfa Romeo,12,17,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Sebastian Vettel,Aston Martin,13,13,0.0,+1 Lap
+2021,4,Spanish Grand Prix,George Russell,Williams,14,15,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Antonio Giovinazzi,Alfa Romeo,15,14,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Nicholas Latifi,Williams,16,19,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Fernando Alonso,Alpine F1 Team,17,10,0.0,+1 Lap
+2021,4,Spanish Grand Prix,Mick Schumacher,Haas F1 Team,18,18,0.0,+2 Laps
+2021,4,Spanish Grand Prix,Nikita Mazepin,Haas F1 Team,19,20,0.0,+2 Laps
+2021,4,Spanish Grand Prix,Yuki Tsunoda,AlphaTauri,20,16,0.0,Electrical
+2021,5,Monaco Grand Prix,Max Verstappen,Red Bull,1,2,25.0,Finished
+2021,5,Monaco Grand Prix,Carlos Sainz,Ferrari,2,4,18.0,Finished
+2021,5,Monaco Grand Prix,Lando Norris,McLaren,3,5,15.0,Finished
+2021,5,Monaco Grand Prix,Sergio Pérez,Red Bull,4,9,12.0,Finished
+2021,5,Monaco Grand Prix,Sebastian Vettel,Aston Martin,5,8,10.0,Finished
+2021,5,Monaco Grand Prix,Pierre Gasly,AlphaTauri,6,6,8.0,Finished
+2021,5,Monaco Grand Prix,Lewis Hamilton,Mercedes,7,7,7.0,Finished
+2021,5,Monaco Grand Prix,Lance Stroll,Aston Martin,8,13,4.0,+1 Lap
+2021,5,Monaco Grand Prix,Esteban Ocon,Alpine F1 Team,9,11,2.0,+1 Lap
+2021,5,Monaco Grand Prix,Antonio Giovinazzi,Alfa Romeo,10,10,1.0,+1 Lap
+2021,5,Monaco Grand Prix,Kimi Räikkönen,Alfa Romeo,11,14,0.0,+1 Lap
+2021,5,Monaco Grand Prix,Daniel Ricciardo,McLaren,12,12,0.0,+1 Lap
+2021,5,Monaco Grand Prix,Fernando Alonso,Alpine F1 Team,13,17,0.0,+1 Lap
+2021,5,Monaco Grand Prix,George Russell,Williams,14,15,0.0,+1 Lap
+2021,5,Monaco Grand Prix,Nicholas Latifi,Williams,15,18,0.0,+1 Lap
+2021,5,Monaco Grand Prix,Yuki Tsunoda,AlphaTauri,16,16,0.0,+1 Lap
+2021,5,Monaco Grand Prix,Nikita Mazepin,Haas F1 Team,17,19,0.0,+3 Laps
+2021,5,Monaco Grand Prix,Mick Schumacher,Haas F1 Team,18,20,0.0,+3 Laps
+2021,5,Monaco Grand Prix,Valtteri Bottas,Mercedes,19,3,0.0,Wheel nut
+2021,5,Monaco Grand Prix,Charles Leclerc,Ferrari,20,1,0.0,Driveshaft
+2022,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,1,1,26.0,Finished
+2022,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,2,3,18.0,Finished
+2022,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,3,5,15.0,Finished
+2022,1,Bahrain Grand Prix,George Russell,Mercedes,4,9,12.0,Finished
+2022,1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,5,7,10.0,Finished
+2022,1,Bahrain Grand Prix,Valtteri Bottas,Alfa Romeo,6,6,8.0,Finished
+2022,1,Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,7,11,6.0,Finished
+2022,1,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,8,16,4.0,Finished
+2022,1,Bahrain Grand Prix,Fernando Alonso,Alpine F1 Team,9,8,2.0,Finished
+2022,1,Bahrain Grand Prix,Guanyu Zhou,Alfa Romeo,10,15,1.0,Finished
+2022,1,Bahrain Grand Prix,Mick Schumacher,Haas F1 Team,11,12,0.0,Finished
+2022,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,12,19,0.0,Finished
+2022,1,Bahrain Grand Prix,Alexander Albon,Williams,13,14,0.0,Finished
+2022,1,Bahrain Grand Prix,Daniel Ricciardo,McLaren,14,18,0.0,Finished
+2022,1,Bahrain Grand Prix,Lando Norris,McLaren,15,13,0.0,Finished
+2022,1,Bahrain Grand Prix,Nicholas Latifi,Williams,16,20,0.0,Finished
+2022,1,Bahrain Grand Prix,Nico Hülkenberg,Aston Martin,17,17,0.0,Finished
+2022,1,Bahrain Grand Prix,Sergio Pérez,Red Bull,18,4,0.0,Fuel pressure
+2022,1,Bahrain Grand Prix,Max Verstappen,Red Bull,19,2,0.0,Fuel pressure
+2022,1,Bahrain Grand Prix,Pierre Gasly,AlphaTauri,20,10,0.0,Power Unit
+2022,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,1,4,25.0,Finished
+2022,2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,2,2,19.0,Finished
+2022,2,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,3,3,15.0,Finished
+2022,2,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,4,1,12.0,Finished
+2022,2,Saudi Arabian Grand Prix,George Russell,Mercedes,5,6,10.0,Finished
+2022,2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine F1 Team,6,5,8.0,Finished
+2022,2,Saudi Arabian Grand Prix,Lando Norris,McLaren,7,11,6.0,Finished
+2022,2,Saudi Arabian Grand Prix,Pierre Gasly,AlphaTauri,8,9,4.0,Finished
+2022,2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,9,10,2.0,Finished
+2022,2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,10,15,1.0,Finished
+2022,2,Saudi Arabian Grand Prix,Guanyu Zhou,Alfa Romeo,11,12,0.0,Finished
+2022,2,Saudi Arabian Grand Prix,Nico Hülkenberg,Aston Martin,12,17,0.0,Finished
+2022,2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,13,13,0.0,+1 Lap
+2022,2,Saudi Arabian Grand Prix,Alexander Albon,Williams,14,16,0.0,Collision damage
+2022,2,Saudi Arabian Grand Prix,Valtteri Bottas,Alfa Romeo,15,8,0.0,Cooling system
+2022,2,Saudi Arabian Grand Prix,Fernando Alonso,Alpine F1 Team,16,7,0.0,Water pump
+2022,2,Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,17,14,0.0,Gearbox
+2022,2,Saudi Arabian Grand Prix,Nicholas Latifi,Williams,18,18,0.0,Accident
+2022,2,Saudi Arabian Grand Prix,Yuki Tsunoda,AlphaTauri,19,19,0.0,Power Unit
+2022,2,Saudi Arabian Grand Prix,Mick Schumacher,Haas F1 Team,20,0,0.0,Withdrew
+2022,3,Australian Grand Prix,Charles Leclerc,Ferrari,1,1,26.0,Finished
+2022,3,Australian Grand Prix,Sergio Pérez,Red Bull,2,3,18.0,Finished
+2022,3,Australian Grand Prix,George Russell,Mercedes,3,6,15.0,Finished
+2022,3,Australian Grand Prix,Lewis Hamilton,Mercedes,4,5,12.0,Finished
+2022,3,Australian Grand Prix,Lando Norris,McLaren,5,4,10.0,Finished
+2022,3,Australian Grand Prix,Daniel Ricciardo,McLaren,6,7,8.0,Finished
+2022,3,Australian Grand Prix,Esteban Ocon,Alpine F1 Team,7,8,6.0,Finished
+2022,3,Australian Grand Prix,Valtteri Bottas,Alfa Romeo,8,12,4.0,Finished
+2022,3,Australian Grand Prix,Pierre Gasly,AlphaTauri,9,11,2.0,Finished
+2022,3,Australian Grand Prix,Alexander Albon,Williams,10,20,1.0,Finished
+2022,3,Australian Grand Prix,Guanyu Zhou,Alfa Romeo,11,14,0.0,Finished
+2022,3,Australian Grand Prix,Lance Stroll,Aston Martin,12,19,0.0,Finished
+2022,3,Australian Grand Prix,Mick Schumacher,Haas F1 Team,13,15,0.0,+1 Lap
+2022,3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,14,16,0.0,+1 Lap
+2022,3,Australian Grand Prix,Yuki Tsunoda,AlphaTauri,15,13,0.0,+1 Lap
+2022,3,Australian Grand Prix,Nicholas Latifi,Williams,16,18,0.0,+1 Lap
+2022,3,Australian Grand Prix,Fernando Alonso,Alpine F1 Team,17,10,0.0,+1 Lap
+2022,3,Australian Grand Prix,Max Verstappen,Red Bull,18,2,0.0,Fuel leak
+2022,3,Australian Grand Prix,Sebastian Vettel,Aston Martin,19,17,0.0,Accident
+2022,3,Australian Grand Prix,Carlos Sainz,Ferrari,20,9,0.0,Spun off
+2022,4,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,1,26.0,Finished
+2022,4,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,2,3,18.0,Finished
+2022,4,Emilia Romagna Grand Prix,Lando Norris,McLaren,3,5,15.0,Finished
+2022,4,Emilia Romagna Grand Prix,George Russell,Mercedes,4,11,12.0,Finished
+2022,4,Emilia Romagna Grand Prix,Valtteri Bottas,Alfa Romeo,5,7,10.0,Finished
+2022,4,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,6,2,8.0,Finished
+2022,4,Emilia Romagna Grand Prix,Yuki Tsunoda,AlphaTauri,7,12,6.0,Finished
+2022,4,Emilia Romagna Grand Prix,Sebastian Vettel,Aston Martin,8,13,4.0,Finished
+2022,4,Emilia Romagna Grand Prix,Kevin Magnussen,Haas F1 Team,9,8,2.0,Finished
+2022,4,Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,10,15,1.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Alexander Albon,Williams,11,18,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Pierre Gasly,AlphaTauri,12,17,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,13,14,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Esteban Ocon,Alpine F1 Team,14,16,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Guanyu Zhou,Alfa Romeo,15,0,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Nicholas Latifi,Williams,16,19,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Mick Schumacher,Haas F1 Team,17,10,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,18,6,0.0,+1 Lap
+2022,4,Emilia Romagna Grand Prix,Fernando Alonso,Alpine F1 Team,19,9,0.0,Collision damage
+2022,4,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,20,4,0.0,Collision
+2022,5,Miami Grand Prix,Max Verstappen,Red Bull,1,3,26.0,Finished
+2022,5,Miami Grand Prix,Charles Leclerc,Ferrari,2,1,18.0,Finished
+2022,5,Miami Grand Prix,Carlos Sainz,Ferrari,3,2,15.0,Finished
+2022,5,Miami Grand Prix,Sergio Pérez,Red Bull,4,4,12.0,Finished
+2022,5,Miami Grand Prix,George Russell,Mercedes,5,12,10.0,Finished
+2022,5,Miami Grand Prix,Lewis Hamilton,Mercedes,6,6,8.0,Finished
+2022,5,Miami Grand Prix,Valtteri Bottas,Alfa Romeo,7,5,6.0,Finished
+2022,5,Miami Grand Prix,Esteban Ocon,Alpine F1 Team,8,20,4.0,Finished
+2022,5,Miami Grand Prix,Alexander Albon,Williams,9,18,2.0,Finished
+2022,5,Miami Grand Prix,Lance Stroll,Aston Martin,10,0,1.0,Finished
+2022,5,Miami Grand Prix,Fernando Alonso,Alpine F1 Team,11,11,0.0,Finished
+2022,5,Miami Grand Prix,Yuki Tsunoda,AlphaTauri,12,9,0.0,Finished
+2022,5,Miami Grand Prix,Daniel Ricciardo,McLaren,13,14,0.0,Finished
+2022,5,Miami Grand Prix,Nicholas Latifi,Williams,14,19,0.0,Finished
+2022,5,Miami Grand Prix,Mick Schumacher,Haas F1 Team,15,15,0.0,Finished
+2022,5,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,16,16,0.0,Front wing
+2022,5,Miami Grand Prix,Sebastian Vettel,Aston Martin,17,0,0.0,Collision
+2022,5,Miami Grand Prix,Pierre Gasly,AlphaTauri,18,7,0.0,Suspension
+2022,5,Miami Grand Prix,Lando Norris,McLaren,19,8,0.0,Collision
+2022,5,Miami Grand Prix,Guanyu Zhou,Alfa Romeo,20,17,0.0,Water leak
+2023,1,Bahrain Grand Prix,Max Verstappen,Red Bull,1,1,25.0,Finished
+2023,1,Bahrain Grand Prix,Sergio Pérez,Red Bull,2,2,18.0,Finished
+2023,1,Bahrain Grand Prix,Fernando Alonso,Aston Martin,3,5,15.0,Finished
+2023,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,4,4,12.0,Finished
+2023,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,5,7,10.0,Finished
+2023,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,6,8,8.0,Finished
+2023,1,Bahrain Grand Prix,George Russell,Mercedes,7,6,6.0,Finished
+2023,1,Bahrain Grand Prix,Valtteri Bottas,Alfa Romeo,8,12,4.0,Finished
+2023,1,Bahrain Grand Prix,Pierre Gasly,Alpine F1 Team,9,20,2.0,Finished
+2023,1,Bahrain Grand Prix,Alexander Albon,Williams,10,15,1.0,Finished
+2023,1,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,11,14,0.0,Finished
+2023,1,Bahrain Grand Prix,Logan Sargeant,Williams,12,16,0.0,Lapped
+2023,1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,13,17,0.0,Lapped
+2023,1,Bahrain Grand Prix,Nyck de Vries,AlphaTauri,14,19,0.0,Lapped
+2023,1,Bahrain Grand Prix,Nico Hülkenberg,Haas F1 Team,15,10,0.0,Lapped
+2023,1,Bahrain Grand Prix,Guanyu Zhou,Alfa Romeo,16,13,0.0,Lapped
+2023,1,Bahrain Grand Prix,Lando Norris,McLaren,17,11,0.0,Lapped
+2023,1,Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,18,9,0.0,Retired
+2023,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,19,3,0.0,Retired
+2023,1,Bahrain Grand Prix,Oscar Piastri,McLaren,20,18,0.0,Retired
+2023,2,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,1,1,25.0,Finished
+2023,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,2,15,19.0,Finished
+2023,2,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,3,2,15.0,Finished
+2023,2,Saudi Arabian Grand Prix,George Russell,Mercedes,4,3,12.0,Finished
+2023,2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,5,7,10.0,Finished
+2023,2,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,6,4,8.0,Finished
+2023,2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,7,12,6.0,Finished
+2023,2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine F1 Team,8,6,4.0,Finished
+2023,2,Saudi Arabian Grand Prix,Pierre Gasly,Alpine F1 Team,9,9,2.0,Finished
+2023,2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,10,13,1.0,Finished
+2023,2,Saudi Arabian Grand Prix,Yuki Tsunoda,AlphaTauri,11,16,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Nico Hülkenberg,Haas F1 Team,12,10,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Guanyu Zhou,Alfa Romeo,13,11,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Nyck de Vries,AlphaTauri,14,18,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,15,8,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Logan Sargeant,Williams,16,20,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Lando Norris,McLaren,17,19,0.0,Finished
+2023,2,Saudi Arabian Grand Prix,Valtteri Bottas,Alfa Romeo,18,14,0.0,Lapped
+2023,2,Saudi Arabian Grand Prix,Alexander Albon,Williams,19,17,0.0,Retired
+2023,2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,20,5,0.0,Retired
+2023,3,Australian Grand Prix,Max Verstappen,Red Bull,1,1,25.0,Finished
+2023,3,Australian Grand Prix,Lewis Hamilton,Mercedes,2,3,18.0,Finished
+2023,3,Australian Grand Prix,Fernando Alonso,Aston Martin,3,4,15.0,Finished
+2023,3,Australian Grand Prix,Lance Stroll,Aston Martin,4,6,12.0,Finished
+2023,3,Australian Grand Prix,Sergio Pérez,Red Bull,5,20,11.0,Finished
+2023,3,Australian Grand Prix,Lando Norris,McLaren,6,13,8.0,Finished
+2023,3,Australian Grand Prix,Nico Hülkenberg,Haas F1 Team,7,10,6.0,Finished
+2023,3,Australian Grand Prix,Oscar Piastri,McLaren,8,16,4.0,Finished
+2023,3,Australian Grand Prix,Guanyu Zhou,Alfa Romeo,9,17,2.0,Finished
+2023,3,Australian Grand Prix,Yuki Tsunoda,AlphaTauri,10,12,1.0,Finished
+2023,3,Australian Grand Prix,Valtteri Bottas,Alfa Romeo,11,19,0.0,Finished
+2023,3,Australian Grand Prix,Carlos Sainz,Ferrari,12,5,0.0,Finished
+2023,3,Australian Grand Prix,Pierre Gasly,Alpine F1 Team,13,9,0.0,Retired
+2023,3,Australian Grand Prix,Esteban Ocon,Alpine F1 Team,14,11,0.0,Retired
+2023,3,Australian Grand Prix,Nyck de Vries,AlphaTauri,15,15,0.0,Retired
+2023,3,Australian Grand Prix,Logan Sargeant,Williams,16,18,0.0,Retired
+2023,3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,17,14,0.0,Retired
+2023,3,Australian Grand Prix,George Russell,Mercedes,18,2,0.0,Retired
+2023,3,Australian Grand Prix,Alexander Albon,Williams,19,8,0.0,Retired
+2023,3,Australian Grand Prix,Charles Leclerc,Ferrari,20,7,0.0,Retired
+2023,4,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,1,3,25.0,Finished
+2023,4,Azerbaijan Grand Prix,Max Verstappen,Red Bull,2,2,18.0,Finished
+2023,4,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,3,1,15.0,Finished
+2023,4,Azerbaijan Grand Prix,Fernando Alonso,Aston Martin,4,6,12.0,Finished
+2023,4,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,5,4,10.0,Finished
+2023,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,6,5,8.0,Finished
+2023,4,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,7,9,6.0,Finished
+2023,4,Azerbaijan Grand Prix,George Russell,Mercedes,8,11,5.0,Finished
+2023,4,Azerbaijan Grand Prix,Lando Norris,McLaren,9,7,2.0,Finished
+2023,4,Azerbaijan Grand Prix,Yuki Tsunoda,AlphaTauri,10,8,1.0,Finished
+2023,4,Azerbaijan Grand Prix,Oscar Piastri,McLaren,11,10,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Alexander Albon,Williams,12,12,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,13,16,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Pierre Gasly,Alpine F1 Team,14,17,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Esteban Ocon,Alpine F1 Team,15,19,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Logan Sargeant,Williams,16,14,0.0,Finished
+2023,4,Azerbaijan Grand Prix,Nico Hülkenberg,Haas F1 Team,17,20,0.0,Lapped
+2023,4,Azerbaijan Grand Prix,Valtteri Bottas,Alfa Romeo,18,13,0.0,Lapped
+2023,4,Azerbaijan Grand Prix,Guanyu Zhou,Alfa Romeo,19,15,0.0,Retired
+2023,4,Azerbaijan Grand Prix,Nyck de Vries,AlphaTauri,20,18,0.0,Retired
+2023,5,Miami Grand Prix,Max Verstappen,Red Bull,1,9,26.0,Finished
+2023,5,Miami Grand Prix,Sergio Pérez,Red Bull,2,1,18.0,Finished
+2023,5,Miami Grand Prix,Fernando Alonso,Aston Martin,3,2,15.0,Finished
+2023,5,Miami Grand Prix,George Russell,Mercedes,4,6,12.0,Finished
+2023,5,Miami Grand Prix,Carlos Sainz,Ferrari,5,3,10.0,Finished
+2023,5,Miami Grand Prix,Lewis Hamilton,Mercedes,6,13,8.0,Finished
+2023,5,Miami Grand Prix,Charles Leclerc,Ferrari,7,7,6.0,Finished
+2023,5,Miami Grand Prix,Pierre Gasly,Alpine F1 Team,8,5,4.0,Finished
+2023,5,Miami Grand Prix,Esteban Ocon,Alpine F1 Team,9,8,2.0,Finished
+2023,5,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,10,4,1.0,Finished
+2023,5,Miami Grand Prix,Yuki Tsunoda,AlphaTauri,11,17,0.0,Finished
+2023,5,Miami Grand Prix,Lance Stroll,Aston Martin,12,18,0.0,Finished
+2023,5,Miami Grand Prix,Valtteri Bottas,Alfa Romeo,13,10,0.0,Finished
+2023,5,Miami Grand Prix,Alexander Albon,Williams,14,11,0.0,Finished
+2023,5,Miami Grand Prix,Nico Hülkenberg,Haas F1 Team,15,12,0.0,Finished
+2023,5,Miami Grand Prix,Guanyu Zhou,Alfa Romeo,16,14,0.0,Finished
+2023,5,Miami Grand Prix,Lando Norris,McLaren,17,16,0.0,Finished
+2023,5,Miami Grand Prix,Nyck de Vries,AlphaTauri,18,15,0.0,Finished
+2023,5,Miami Grand Prix,Oscar Piastri,McLaren,19,19,0.0,Lapped
+2023,5,Miami Grand Prix,Logan Sargeant,Williams,20,20,0.0,Lapped
+2024,1,Bahrain Grand Prix,Max Verstappen,Red Bull,1,1,26.0,Finished
+2024,1,Bahrain Grand Prix,Sergio Pérez,Red Bull,2,5,18.0,Finished
+2024,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,3,4,15.0,Finished
+2024,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,4,2,12.0,Finished
+2024,1,Bahrain Grand Prix,George Russell,Mercedes,5,3,10.0,Finished
+2024,1,Bahrain Grand Prix,Lando Norris,McLaren,6,7,8.0,Finished
+2024,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,7,9,6.0,Finished
+2024,1,Bahrain Grand Prix,Oscar Piastri,McLaren,8,8,4.0,Finished
+2024,1,Bahrain Grand Prix,Fernando Alonso,Aston Martin,9,6,2.0,Finished
+2024,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,10,12,1.0,Finished
+2024,1,Bahrain Grand Prix,Guanyu Zhou,Sauber,11,17,0.0,Lapped
+2024,1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,12,15,0.0,Lapped
+2024,1,Bahrain Grand Prix,Daniel Ricciardo,RB F1 Team,13,14,0.0,Lapped
+2024,1,Bahrain Grand Prix,Yuki Tsunoda,RB F1 Team,14,11,0.0,Lapped
+2024,1,Bahrain Grand Prix,Alexander Albon,Williams,15,13,0.0,Lapped
+2024,1,Bahrain Grand Prix,Nico Hülkenberg,Haas F1 Team,16,10,0.0,Lapped
+2024,1,Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,17,19,0.0,Lapped
+2024,1,Bahrain Grand Prix,Pierre Gasly,Alpine F1 Team,18,20,0.0,Lapped
+2024,1,Bahrain Grand Prix,Valtteri Bottas,Sauber,19,16,0.0,Lapped
+2024,1,Bahrain Grand Prix,Logan Sargeant,Williams,20,18,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,1,1,25.0,Finished
+2024,2,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,2,3,18.0,Finished
+2024,2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,3,2,16.0,Finished
+2024,2,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,4,5,12.0,Finished
+2024,2,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,5,4,10.0,Finished
+2024,2,Saudi Arabian Grand Prix,George Russell,Mercedes,6,7,8.0,Finished
+2024,2,Saudi Arabian Grand Prix,Oliver Bearman,Ferrari,7,11,6.0,Finished
+2024,2,Saudi Arabian Grand Prix,Lando Norris,McLaren,8,6,4.0,Finished
+2024,2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,9,8,2.0,Finished
+2024,2,Saudi Arabian Grand Prix,Nico Hülkenberg,Haas F1 Team,10,15,1.0,Finished
+2024,2,Saudi Arabian Grand Prix,Alexander Albon,Williams,11,12,0.0,Finished
+2024,2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,12,13,0.0,Finished
+2024,2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine F1 Team,13,17,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Logan Sargeant,Williams,14,19,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Yuki Tsunoda,RB F1 Team,15,9,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Daniel Ricciardo,RB F1 Team,16,14,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Valtteri Bottas,Sauber,17,16,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Guanyu Zhou,Sauber,18,20,0.0,Lapped
+2024,2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,19,10,0.0,Retired
+2024,2,Saudi Arabian Grand Prix,Pierre Gasly,Alpine F1 Team,20,18,0.0,Retired
+2024,3,Australian Grand Prix,Carlos Sainz,Ferrari,1,2,25.0,Finished
+2024,3,Australian Grand Prix,Charles Leclerc,Ferrari,2,4,19.0,Finished
+2024,3,Australian Grand Prix,Lando Norris,McLaren,3,3,15.0,Finished
+2024,3,Australian Grand Prix,Oscar Piastri,McLaren,4,5,12.0,Finished
+2024,3,Australian Grand Prix,Sergio Pérez,Red Bull,5,6,10.0,Finished
+2024,3,Australian Grand Prix,Lance Stroll,Aston Martin,6,9,8.0,Finished
+2024,3,Australian Grand Prix,Yuki Tsunoda,RB F1 Team,7,8,6.0,Finished
+2024,3,Australian Grand Prix,Fernando Alonso,Aston Martin,8,10,4.0,Finished
+2024,3,Australian Grand Prix,Nico Hülkenberg,Haas F1 Team,9,16,2.0,Finished
+2024,3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,10,14,1.0,Lapped
+2024,3,Australian Grand Prix,Alexander Albon,Williams,11,12,0.0,Lapped
+2024,3,Australian Grand Prix,Daniel Ricciardo,RB F1 Team,12,18,0.0,Lapped
+2024,3,Australian Grand Prix,Pierre Gasly,Alpine F1 Team,13,17,0.0,Lapped
+2024,3,Australian Grand Prix,Valtteri Bottas,Sauber,14,13,0.0,Lapped
+2024,3,Australian Grand Prix,Guanyu Zhou,Sauber,15,19,0.0,Lapped
+2024,3,Australian Grand Prix,Esteban Ocon,Alpine F1 Team,16,15,0.0,Lapped
+2024,3,Australian Grand Prix,George Russell,Mercedes,17,7,0.0,Retired
+2024,3,Australian Grand Prix,Lewis Hamilton,Mercedes,18,11,0.0,Retired
+2024,3,Australian Grand Prix,Max Verstappen,Red Bull,19,1,0.0,Retired
+2024,4,Japanese Grand Prix,Max Verstappen,Red Bull,1,1,26.0,Finished
+2024,4,Japanese Grand Prix,Sergio Pérez,Red Bull,2,2,18.0,Finished
+2024,4,Japanese Grand Prix,Carlos Sainz,Ferrari,3,4,15.0,Finished
+2024,4,Japanese Grand Prix,Charles Leclerc,Ferrari,4,8,12.0,Finished
+2024,4,Japanese Grand Prix,Lando Norris,McLaren,5,3,10.0,Finished
+2024,4,Japanese Grand Prix,Fernando Alonso,Aston Martin,6,5,8.0,Finished
+2024,4,Japanese Grand Prix,George Russell,Mercedes,7,9,6.0,Finished
+2024,4,Japanese Grand Prix,Oscar Piastri,McLaren,8,6,4.0,Finished
+2024,4,Japanese Grand Prix,Lewis Hamilton,Mercedes,9,7,2.0,Finished
+2024,4,Japanese Grand Prix,Yuki Tsunoda,RB F1 Team,10,10,1.0,Lapped
+2024,4,Japanese Grand Prix,Nico Hülkenberg,Haas F1 Team,11,12,0.0,Lapped
+2024,4,Japanese Grand Prix,Lance Stroll,Aston Martin,12,16,0.0,Lapped
+2024,4,Japanese Grand Prix,Kevin Magnussen,Haas F1 Team,13,18,0.0,Lapped
+2024,4,Japanese Grand Prix,Valtteri Bottas,Sauber,14,13,0.0,Lapped
+2024,4,Japanese Grand Prix,Esteban Ocon,Alpine F1 Team,15,15,0.0,Lapped
+2024,4,Japanese Grand Prix,Pierre Gasly,Alpine F1 Team,16,17,0.0,Lapped
+2024,4,Japanese Grand Prix,Logan Sargeant,Williams,17,19,0.0,Lapped
+2024,4,Japanese Grand Prix,Guanyu Zhou,Sauber,18,20,0.0,Retired
+2024,4,Japanese Grand Prix,Daniel Ricciardo,RB F1 Team,19,11,0.0,Retired
+2024,4,Japanese Grand Prix,Alexander Albon,Williams,20,14,0.0,Retired
+2024,5,Chinese Grand Prix,Max Verstappen,Red Bull,1,1,25.0,Finished
+2024,5,Chinese Grand Prix,Lando Norris,McLaren,2,4,18.0,Finished
+2024,5,Chinese Grand Prix,Sergio Pérez,Red Bull,3,2,15.0,Finished
+2024,5,Chinese Grand Prix,Charles Leclerc,Ferrari,4,6,12.0,Finished
+2024,5,Chinese Grand Prix,Carlos Sainz,Ferrari,5,7,10.0,Finished
+2024,5,Chinese Grand Prix,George Russell,Mercedes,6,8,8.0,Finished
+2024,5,Chinese Grand Prix,Fernando Alonso,Aston Martin,7,3,7.0,Finished
+2024,5,Chinese Grand Prix,Oscar Piastri,McLaren,8,5,4.0,Finished
+2024,5,Chinese Grand Prix,Lewis Hamilton,Mercedes,9,18,2.0,Finished
+2024,5,Chinese Grand Prix,Nico Hülkenberg,Haas F1 Team,10,9,1.0,Finished
+2024,5,Chinese Grand Prix,Esteban Ocon,Alpine F1 Team,11,13,0.0,Finished
+2024,5,Chinese Grand Prix,Alexander Albon,Williams,12,14,0.0,Finished
+2024,5,Chinese Grand Prix,Pierre Gasly,Alpine F1 Team,13,15,0.0,Finished
+2024,5,Chinese Grand Prix,Guanyu Zhou,Sauber,14,16,0.0,Finished
+2024,5,Chinese Grand Prix,Lance Stroll,Aston Martin,15,11,0.0,Finished
+2024,5,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,16,17,0.0,Finished
+2024,5,Chinese Grand Prix,Logan Sargeant,Williams,17,20,0.0,Finished
+2024,5,Chinese Grand Prix,Daniel Ricciardo,RB F1 Team,18,12,0.0,Retired
+2024,5,Chinese Grand Prix,Yuki Tsunoda,RB F1 Team,19,19,0.0,Retired
+2024,5,Chinese Grand Prix,Valtteri Bottas,Sauber,20,10,0.0,Retired
+2024,6,Miami Grand Prix,Lando Norris,McLaren,1,5,25.0,Finished
+2025,1,Australian Grand Prix,Lando Norris,McLaren,1,1,25.0,Finished
+2025,1,Australian Grand Prix,Max Verstappen,Red Bull,2,3,18.0,Finished
+2025,1,Australian Grand Prix,George Russell,Mercedes,3,4,15.0,Finished
+2025,1,Australian Grand Prix,Andrea Kimi Antonelli,Mercedes,4,16,12.0,Finished
+2025,1,Australian Grand Prix,Alexander Albon,Williams,5,6,10.0,Finished
+2025,1,Australian Grand Prix,Lance Stroll,Aston Martin,6,13,8.0,Finished
+2025,1,Australian Grand Prix,Nico Hülkenberg,Sauber,7,17,6.0,Finished
+2025,1,Australian Grand Prix,Charles Leclerc,Ferrari,8,7,4.0,Finished
+2025,1,Australian Grand Prix,Oscar Piastri,McLaren,9,2,2.0,Finished
+2025,1,Australian Grand Prix,Lewis Hamilton,Ferrari,10,8,1.0,Finished
+2025,1,Australian Grand Prix,Pierre Gasly,Alpine F1 Team,11,9,0.0,Finished
+2025,1,Australian Grand Prix,Yuki Tsunoda,RB F1 Team,12,5,0.0,Finished
+2025,1,Australian Grand Prix,Esteban Ocon,Haas F1 Team,13,19,0.0,Finished
+2025,1,Australian Grand Prix,Oliver Bearman,Haas F1 Team,14,20,0.0,Finished
+2025,1,Australian Grand Prix,Liam Lawson,Red Bull,15,18,0.0,Retired
+2025,1,Australian Grand Prix,Gabriel Bortoleto,Sauber,16,15,0.0,Retired
+2025,1,Australian Grand Prix,Fernando Alonso,Aston Martin,17,12,0.0,Retired
+2025,1,Australian Grand Prix,Carlos Sainz,Williams,18,10,0.0,Retired
+2025,1,Australian Grand Prix,Jack Doohan,Alpine F1 Team,19,14,0.0,Retired
+2025,1,Australian Grand Prix,Isack Hadjar,RB F1 Team,20,11,0.0,Retired
+2025,2,Chinese Grand Prix,Oscar Piastri,McLaren,1,1,25.0,Finished
+2025,2,Chinese Grand Prix,Lando Norris,McLaren,2,3,18.0,Finished
+2025,2,Chinese Grand Prix,George Russell,Mercedes,3,2,15.0,Finished
+2025,2,Chinese Grand Prix,Max Verstappen,Red Bull,4,4,12.0,Finished
+2025,2,Chinese Grand Prix,Esteban Ocon,Haas F1 Team,5,11,10.0,Finished
+2025,2,Chinese Grand Prix,Andrea Kimi Antonelli,Mercedes,6,8,8.0,Finished
+2025,2,Chinese Grand Prix,Alexander Albon,Williams,7,10,6.0,Finished
+2025,2,Chinese Grand Prix,Oliver Bearman,Haas F1 Team,8,17,4.0,Finished
+2025,2,Chinese Grand Prix,Lance Stroll,Aston Martin,9,14,2.0,Finished
+2025,2,Chinese Grand Prix,Carlos Sainz,Williams,10,15,1.0,Finished
+2025,2,Chinese Grand Prix,Isack Hadjar,RB F1 Team,11,7,0.0,Finished
+2025,2,Chinese Grand Prix,Liam Lawson,Red Bull,12,20,0.0,Finished
+2025,2,Chinese Grand Prix,Jack Doohan,Alpine F1 Team,13,18,0.0,Finished
+2025,2,Chinese Grand Prix,Gabriel Bortoleto,Sauber,14,19,0.0,Lapped
+2025,2,Chinese Grand Prix,Nico Hülkenberg,Sauber,15,12,0.0,Lapped
+2025,2,Chinese Grand Prix,Yuki Tsunoda,RB F1 Team,16,9,0.0,Lapped
+2025,2,Chinese Grand Prix,Fernando Alonso,Aston Martin,17,13,0.0,Retired
+2025,2,Chinese Grand Prix,Charles Leclerc,Ferrari,18,6,0.0,Disqualified
+2025,2,Chinese Grand Prix,Lewis Hamilton,Ferrari,19,5,0.0,Disqualified
+2025,2,Chinese Grand Prix,Pierre Gasly,Alpine F1 Team,20,16,0.0,Disqualified
+2025,3,Japanese Grand Prix,Max Verstappen,Red Bull,1,1,25.0,Finished
+2025,3,Japanese Grand Prix,Lando Norris,McLaren,2,2,18.0,Finished
+2025,3,Japanese Grand Prix,Oscar Piastri,McLaren,3,3,15.0,Finished
+2025,3,Japanese Grand Prix,Charles Leclerc,Ferrari,4,4,12.0,Finished
+2025,3,Japanese Grand Prix,George Russell,Mercedes,5,5,10.0,Finished
+2025,3,Japanese Grand Prix,Andrea Kimi Antonelli,Mercedes,6,6,8.0,Finished
+2025,3,Japanese Grand Prix,Lewis Hamilton,Ferrari,7,8,6.0,Finished
+2025,3,Japanese Grand Prix,Isack Hadjar,RB F1 Team,8,7,4.0,Finished
+2025,3,Japanese Grand Prix,Alexander Albon,Williams,9,9,2.0,Finished
+2025,3,Japanese Grand Prix,Oliver Bearman,Haas F1 Team,10,10,1.0,Finished
+2025,3,Japanese Grand Prix,Fernando Alonso,Aston Martin,11,12,0.0,Finished
+2025,3,Japanese Grand Prix,Yuki Tsunoda,Red Bull,12,14,0.0,Finished
+2025,3,Japanese Grand Prix,Pierre Gasly,Alpine F1 Team,13,11,0.0,Finished
+2025,3,Japanese Grand Prix,Carlos Sainz,Williams,14,15,0.0,Finished
+2025,3,Japanese Grand Prix,Jack Doohan,Alpine F1 Team,15,19,0.0,Finished
+2025,3,Japanese Grand Prix,Nico Hülkenberg,Sauber,16,16,0.0,Finished
+2025,3,Japanese Grand Prix,Liam Lawson,RB F1 Team,17,13,0.0,Finished
+2025,3,Japanese Grand Prix,Esteban Ocon,Haas F1 Team,18,18,0.0,Finished
+2025,3,Japanese Grand Prix,Gabriel Bortoleto,Sauber,19,17,0.0,Finished
+2025,3,Japanese Grand Prix,Lance Stroll,Aston Martin,20,20,0.0,Lapped
+2025,4,Bahrain Grand Prix,Oscar Piastri,McLaren,1,1,25.0,Finished
+2025,4,Bahrain Grand Prix,George Russell,Mercedes,2,3,18.0,Finished
+2025,4,Bahrain Grand Prix,Lando Norris,McLaren,3,6,15.0,Finished
+2025,4,Bahrain Grand Prix,Charles Leclerc,Ferrari,4,2,12.0,Finished
+2025,4,Bahrain Grand Prix,Lewis Hamilton,Ferrari,5,9,10.0,Finished
+2025,4,Bahrain Grand Prix,Max Verstappen,Red Bull,6,7,8.0,Finished
+2025,4,Bahrain Grand Prix,Pierre Gasly,Alpine F1 Team,7,4,6.0,Finished
+2025,4,Bahrain Grand Prix,Esteban Ocon,Haas F1 Team,8,14,4.0,Finished
+2025,4,Bahrain Grand Prix,Yuki Tsunoda,Red Bull,9,10,2.0,Finished
+2025,4,Bahrain Grand Prix,Oliver Bearman,Haas F1 Team,10,20,1.0,Finished
+2025,4,Bahrain Grand Prix,Andrea Kimi Antonelli,Mercedes,11,5,0.0,Finished
+2025,4,Bahrain Grand Prix,Alexander Albon,Williams,12,15,0.0,Finished
+2025,4,Bahrain Grand Prix,Isack Hadjar,RB F1 Team,13,12,0.0,Finished
+2025,4,Bahrain Grand Prix,Jack Doohan,Alpine F1 Team,14,11,0.0,Finished
+2025,4,Bahrain Grand Prix,Fernando Alonso,Aston Martin,15,13,0.0,Finished
+2025,4,Bahrain Grand Prix,Liam Lawson,RB F1 Team,16,17,0.0,Finished
+2025,4,Bahrain Grand Prix,Lance Stroll,Aston Martin,17,19,0.0,Finished
+2025,4,Bahrain Grand Prix,Gabriel Bortoleto,Sauber,18,18,0.0,Finished
+2025,4,Bahrain Grand Prix,Carlos Sainz,Williams,19,8,0.0,Retired
+2025,4,Bahrain Grand Prix,Nico Hülkenberg,Sauber,20,16,0.0,Disqualified
+2025,5,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,1,2,25.0,Finished
+2025,5,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,2,1,18.0,Finished
+2025,5,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,3,4,15.0,Finished
+2025,5,Saudi Arabian Grand Prix,Lando Norris,McLaren,4,10,12.0,Finished
+2025,5,Saudi Arabian Grand Prix,George Russell,Mercedes,5,3,10.0,Finished
+2025,5,Saudi Arabian Grand Prix,Andrea Kimi Antonelli,Mercedes,6,5,8.0,Finished
+2025,5,Saudi Arabian Grand Prix,Lewis Hamilton,Ferrari,7,7,6.0,Finished
+2025,5,Saudi Arabian Grand Prix,Carlos Sainz,Williams,8,6,4.0,Finished
+2025,5,Saudi Arabian Grand Prix,Alexander Albon,Williams,9,11,2.0,Finished
+2025,5,Saudi Arabian Grand Prix,Isack Hadjar,RB F1 Team,10,14,1.0,Finished
+2025,5,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,11,13,0.0,Finished
+2025,5,Saudi Arabian Grand Prix,Liam Lawson,RB F1 Team,12,12,0.0,Finished
+2025,5,Saudi Arabian Grand Prix,Oliver Bearman,Haas F1 Team,13,15,0.0,Finished
+2025,5,Saudi Arabian Grand Prix,Esteban Ocon,Haas F1 Team,14,19,0.0,Finished
+2025,5,Saudi Arabian Grand Prix,Nico Hülkenberg,Sauber,15,18,0.0,Lapped
+2025,5,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,16,16,0.0,Lapped
+2025,5,Saudi Arabian Grand Prix,Jack Doohan,Alpine F1 Team,17,17,0.0,Lapped
+2025,5,Saudi Arabian Grand Prix,Gabriel Bortoleto,Sauber,18,20,0.0,Lapped
+2025,5,Saudi Arabian Grand Prix,Yuki Tsunoda,Red Bull,19,8,0.0,Retired
+2025,5,Saudi Arabian Grand Prix,Pierre Gasly,Alpine F1 Team,20,9,0.0,Retired

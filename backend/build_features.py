@@ -7,16 +7,15 @@ OUT = Path("backend/data/features.csv")
 df = pd.read_csv(SRC)
 df.sort_values(["season", "round"], inplace=True)
 
-# Target variable: did the driver win?
+# did the driver win
 df["win"] = (df["position"] == 1).astype(int)
 
-# Build a DNF (Did Not Finish) flag safely
 status_lower = df["status"].astype(str).str.lower()
 
-# Mark as finished if contains "finish", "+N laps", or "lap"/"lapped"
+# Mark as finished 
 finished_mask = (
     status_lower.str.contains("finish", regex=False)
-    | status_lower.str.contains("+", regex=False)   # literal plus sign
+    | status_lower.str.contains("+", regex=False)   
     | status_lower.str.contains("lap", regex=False)
 )
 
@@ -34,7 +33,7 @@ g_team = df.groupby(["season", "constructor"], sort=False)
 df["con_pts_to_date"]  = g_team["points"].cumsum() - df["points"]
 df["con_roll_pts_5"]   = g_team["points"].apply(lambda s: s.shift(1).rolling(5, min_periods=1).mean()).reset_index(level=[0,1], drop=True)
 
-# Context features
+
 df["grid"] = df["grid"].fillna(df["grid"].median())
 df["round_norm"] = df["round"] / df.groupby("season")["round"].transform("max")
 
