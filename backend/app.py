@@ -84,24 +84,53 @@ def infer_grid_for_next_race() -> list[dict]:
 def fetch_current_driver_standings() -> list[dict]:
     """
     Fallback roster (drivers + team) if qualifying is not available.
+    First tries current season, then falls back to previous season.
     """
-    data = fetch_json(f"{BASE}/current/driverStandings.json?limit=1000")
-    lists = data["MRData"]["StandingsTable"]["StandingsLists"]
-    if not lists:
-        return []
-    standings = lists[0].get("DriverStandings", [])
-    out = []
-    for s in standings:
-        d = s["Driver"]
-        driver = f'{d.get("givenName","")} {d.get("familyName","")}'.strip()
-        constructors = s.get("Constructors", [])
-        constructor = constructors[0]["name"] if constructors else ""
-        out.append({
-            "driver": driver,
-            "constructor": constructor,
-            "standing_position": int(s.get("position", "0")),
-        })
-    return out
+    # Try current season
+    try:
+        data = fetch_json(f"{BASE}/current/driverStandings.json?limit=1000")
+        lists = data["MRData"]["StandingsTable"]["StandingsLists"]
+        if lists:
+            standings = lists[0].get("DriverStandings", [])
+            out = []
+            for s in standings:
+                d = s["Driver"]
+                driver = f'{d.get("givenName","")} {d.get("familyName","")}'.strip()
+                constructors = s.get("Constructors", [])
+                constructor = constructors[0]["name"] if constructors else ""
+                out.append({
+                    "driver": driver,
+                    "constructor": constructor,
+                    "standing_position": int(s.get("position", "0")),
+                })
+            if out:
+                return out
+    except Exception:
+        pass
+    
+    # Fallback to previous season
+    try:
+        data = fetch_json(f"{BASE}/2025/driverStandings.json?limit=1000")
+        lists = data["MRData"]["StandingsTable"]["StandingsLists"]
+        if lists:
+            standings = lists[0].get("DriverStandings", [])
+            out = []
+            for s in standings:
+                d = s["Driver"]
+                driver = f'{d.get("givenName","")} {d.get("familyName","")}'.strip()
+                constructors = s.get("Constructors", [])
+                constructor = constructors[0]["name"] if constructors else ""
+                out.append({
+                    "driver": driver,
+                    "constructor": constructor,
+                    "standing_position": int(s.get("position", "0")),
+                })
+            if out:
+                return out
+    except Exception:
+        pass
+    
+    return []
 
 def fetch_next_entry_map() -> dict:
     """
@@ -121,7 +150,7 @@ def fetch_next_entry_map() -> dict:
     except Exception:
         pass
 
-    # Fallback standings
+    # Fallback to current standings
     try:
         data = fetch_json(f"{BASE}/current/driverStandings.json?limit=1000")
         lists = data["MRData"]["StandingsTable"]["StandingsLists"]
@@ -133,7 +162,25 @@ def fetch_next_entry_map() -> dict:
                 constructors = s.get("Constructors", [])
                 team = constructors[0]["name"] if constructors else ""
                 m[name] = {"constructor": team}
-            return m
+            if m:
+                return m
+    except Exception:
+        pass
+
+    # Fallback to previous season standings
+    try:
+        data = fetch_json(f"{BASE}/2025/driverStandings.json?limit=1000")
+        lists = data["MRData"]["StandingsTable"]["StandingsLists"]
+        if lists:
+            m = {}
+            for s in lists[0].get("DriverStandings", []):
+                d = s["Driver"]
+                name = f'{d.get("givenName","")} {d.get("familyName","")}'.strip()
+                constructors = s.get("Constructors", [])
+                team = constructors[0]["name"] if constructors else ""
+                m[name] = {"constructor": team}
+            if m:
+                return m
     except Exception:
         pass
 
